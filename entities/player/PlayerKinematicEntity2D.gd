@@ -1,0 +1,2 @@
+extends KinematicEntity2D
+
